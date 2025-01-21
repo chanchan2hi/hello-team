@@ -20,8 +20,10 @@
 ## jo
 닉네임:jo
 * 닉네임:jo
+* 이름:조준형
 * 좋아하는 게임 : 블러드본
 
 ## caoticgrains
-닉네임 : caoticgrains
-이름 : 
+* 닉네임 : caoticgrains
+* 좋아하는 게임 : 엘든링, 워프레임, 포션크래프트
+* <img src="https://storage.googleapis.com/oceanwide_web/media-dynamic/cache/widen_1100_progressive/v2-gallery_media/media60269f02176e2768416628.jpg"></img>
