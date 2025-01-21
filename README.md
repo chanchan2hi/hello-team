@@ -6,7 +6,9 @@
 ## 자기소개
 * 이름 : 박준수
 * 좋아하는 게임 :FPS, 퍼즐류 게임
-![Alt text](C:\Users\Cadi\Desktop\image\"jangu.jpeg")
+![짱구인사](./jangu.jpeg)
+* 사진 변경 테스트
+
 
 ## 박찬영
 <img src="image.png"/></img>
@@ -15,8 +17,10 @@
 * 좋아하는 게임: 롤 , 데이브 더 다이버,스타듀 밸리 .
 
 
+
 ## jo
 닉네임:jo
+* 닉네임:jo
 * 이름:조준형
 * 좋아하는 게임 : 블러드본
 
