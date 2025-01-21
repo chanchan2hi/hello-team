@@ -23,7 +23,7 @@
 * 닉네임:jo
 * 이름:조준형
 * 좋아하는 게임 : 블러드본
-<img src = "https://search.pstatic.net/common/?src=http%3A%2F%2Fshop1.phinf.naver.net%2F20230413_280%2F16813752003549tCNT_PNG%2F30777065836694720_629089085.png&type=sc960_832"></img>
+<img src = "라이언.jpg"></img>
 
 ## caoticgrains
 * 닉네임 : caoticgrains
