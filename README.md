@@ -9,7 +9,7 @@
 ![Alt text](C:\Users\Cadi\Desktop\image\"jangu.jpeg")
 
 ## 박찬영
-<img src="https://github.com/chanchan2hi/hello-team/blob/main/image.png" width="450px" height="300px"/></img>
+<img src="https://github.com/chanchan2hi/hello-team/blob/main/image.png" ></img>
 <br></br>
 * 닉네임:개똥이
 * 좋아하는 게임: 롤 , 데이브 더 다이버,스타듀 밸리 .
